@@ -68,5 +68,4 @@ If you have multiple `IBM Cloud` accounts, please verify that the account logged
 #### Step 2: Verify account logged in to the `IBM Cloud Shell`
 ![](images/issue-07.PNG)
 
-_S_
 
